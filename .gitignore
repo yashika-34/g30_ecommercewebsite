@@ -1,0 +1,10 @@
+# Web / Frontend / Node.js
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+node_modules/
+*.zip
+*.tar.gz
